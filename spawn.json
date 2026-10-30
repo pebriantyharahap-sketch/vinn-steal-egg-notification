@@ -1,0 +1,33 @@
+
+{
+  "game": "Steal an Egg",
+  "spawns": [
+    {
+      "egg": "Secret Egg",
+      "rarity": "Secret",
+      "biome": null,
+      "spawn_time": null,
+      "despawn_time": null,
+      "timer_seconds": null,
+      "status": "unknown"
+    },
+    {
+      "egg": "Eternal Egg",
+      "rarity": "Eternal",
+      "biome": null,
+      "spawn_time": null,
+      "despawn_time": null,
+      "timer_seconds": null,
+      "status": "unknown"
+    },
+    {
+      "egg": "Divine Egg",
+      "rarity": "Divine",
+      "biome": null,
+      "spawn_time": null,
+      "despawn_time": null,
+      "timer_seconds": null,
+      "status": "unknown"
+    }
+  ]
+}
